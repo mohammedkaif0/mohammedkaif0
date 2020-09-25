@@ -1,8 +1,8 @@
 #### Hi there 👋, my name is Mohammed Kaif
 #### I am Full Stack Web Developer and cyber security Enthusiast
-![I am Full Stack Web Developer and cyber security Enthusiast]
 
-#I'm a 3rd year undergraduate student from svce,Bangalore.I'm currently learning vanilla javascript.I'm looking to collaborate on Frontend projects.
+
+I'm a 3rd year undergraduate student from svce,Bangalore.I'm currently learning vanilla javascript.I'm looking to collaborate on Frontend projects.
 
 Skills: HTML/CSS/JS/BOOTSTRAP/PYTHON/PHP/MYSQL
 
