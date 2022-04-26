@@ -7,11 +7,9 @@
 
 - 🌱 I’m currently learning **REACT AND NODE**
 
-- 💬 Ask me about **HTML,CSS,JS,PYTHON,PHP,MYSQL**
+- 💬 Ask me about **HTML,CSS,JS,PYTHON,MYSQL**
 
 - 📫 How to reach me **mohammedkaifak435@gmail.com**
-
-- ⚡ Fun fact **I Think I'm a good singer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
